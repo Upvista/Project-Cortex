@@ -9,7 +9,7 @@
 
 **Project Cortex** is a biologically inspired cognitive architecture designed to model the executive functions of the human prefrontal cortex. The system integrates multiple specialized cognitive agents, a central Orchestrator, structured shared memory, and multi-layer safety arbitration to support autonomous reasoning, hierarchical planning, long-horizon decision making, and adaptive learning.
 
-This repository contains:
+This repository contains::
 
 - Research papers and conceptual documentation  
 - High-level algorithms and pseudocode  
